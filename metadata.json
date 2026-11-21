@@ -1,0 +1,6 @@
+{
+  "name": "HRIS Asia Raya",
+  "description": "Aplikasi HRIS resmi PT Asia Raya Group untuk presensi online GPS geofence, jadwal shift, cuti, lembur, klaim, slip gaji, dan persetujuan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
